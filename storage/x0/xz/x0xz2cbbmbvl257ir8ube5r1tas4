@@ -1,0 +1,163 @@
+Row 1 : Supplier not found by name.
+Supplier name from row: Message Corp.
+Creating a new supplier: Message Corp.
+
+Row 1 : OK
+Row 2 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with Message Corp. : 0.8146182794269169
+
+Best Match for Message Corporation: Message Corp. (0.8146182794269169)
+Creating a new supplier: Message Corporation
+
+Row 2 : OK
+Row 3 : Supplier not found by name.
+Supplier name from row: Silicon Valley Payroll
+Score Comparing SiliconValleyPayroll with Message Corp. : 0.24504901470490173
+Score Comparing SiliconValleyPayroll with Message Corporation : 0.4271410714851651
+
+Best Match for Silicon Valley Payroll: Message Corporation (0.4271410714851651)
+Creating a new supplier: Silicon Valley Payroll
+
+Row 3 : OK
+
+Row 4 : OK
+Row 5 : Supplier not found by name.
+Supplier name from row: Megasoftware International
+Score Comparing MegasoftwareInternational with Message Corp. : 0.5683580801556054
+Score Comparing MegasoftwareInternational with Message Corporation : 0.7932043159238391
+Score Comparing MegasoftwareInternational with Silicon Valley Payroll : 0.4874567476550303
+
+Best Match for Megasoftware International: Message Corporation (0.7932043159238391)
+Creating a new supplier: Megasoftware International
+
+Row 5 : ERROR
+"Contract Name" cannot be blank
+Row 6 : Supplier not found by name.
+Supplier name from row: Deployment Solutions LLC
+Score Comparing DeploymentSolutionsLLC with Message Corp. : 0.43278921145054855
+Score Comparing DeploymentSolutionsLLC with Message Corporation : 0.6212607441973956
+Score Comparing DeploymentSolutionsLLC with Silicon Valley Payroll : 0.5624015883323095
+Score Comparing DeploymentSolutionsLLC with Megasoftware International : 0.5863954716083738
+
+Best Match for Deployment Solutions LLC: Message Corporation (0.6212607441973956)
+Creating a new supplier: Deployment Solutions LLC
+
+Row 6 : OK
+Row 7 : Supplier not found by name.
+Supplier name from row: Giovanni's Cardboard Distributions
+Score Comparing GiovannisCardboardDistributions with Message Corp. : 0.416040773993875
+Score Comparing GiovannisCardboardDistributions with Message Corporation : 0.7091971805440821
+Score Comparing GiovannisCardboardDistributions with Silicon Valley Payroll : 0.4162907234150368
+Score Comparing GiovannisCardboardDistributions with Megasoftware International : 0.650522925520963
+Score Comparing GiovannisCardboardDistributions with Deployment Solutions LLC : 0.4962916669854651
+
+Best Match for Giovanni's Cardboard Distributions: Message Corporation (0.7091971805440821)
+Creating a new supplier: Giovanni's Cardboard Distributions
+
+Row 7 : OK
+Row 8 : Supplier not found by name.
+Supplier name from row: Timeshare Travels, LLC
+Score Comparing TimeshareTravelsLLC with Message Corp. : 0.6149400462680908
+Score Comparing TimeshareTravelsLLC with Message Corporation : 0.5884898863364997
+Score Comparing TimeshareTravelsLLC with Silicon Valley Payroll : 0.3750457847507963
+Score Comparing TimeshareTravelsLLC with Megasoftware International : 0.5455447255899809
+Score Comparing TimeshareTravelsLLC with Deployment Solutions LLC : 0.4433944513137059
+Score Comparing TimeshareTravelsLLC with Giovanni's Cardboard Distributions : 0.4405671105314009
+
+Best Match for Timeshare Travels, LLC: Message Corp. (0.6149400462680908)
+Creating a new supplier: Timeshare Travels, LLC
+
+Row 8 : OK
+Row 9 : Supplier not found by name.
+Supplier name from row: HRIS Incorporated
+Score Comparing HRISIncorporated with Message Corp. : 0.4136701519960153
+Score Comparing HRISIncorporated with Message Corporation : 0.6309291761714246
+Score Comparing HRISIncorporated with Silicon Valley Payroll : 0.35478743759344955
+Score Comparing HRISIncorporated with Megasoftware International : 0.6330541649476572
+Score Comparing HRISIncorporated with Deployment Solutions LLC : 0.4605661864718383
+Score Comparing HRISIncorporated with Giovanni's Cardboard Distributions : 0.48900964692182575
+Score Comparing HRISIncorporated with Timeshare Travels, LLC : 0.3033899381084589
+
+Best Match for HRIS Incorporated: Megasoftware International (0.6330541649476572)
+Creating a new supplier: HRIS Incorporated
+
+Row 9 : ERROR
+"Start Date" cannot be blank
+"End Date" cannot be blank
+"End Date" cannot be blank
+"Contract Value" cannot be blank
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+Row 10 : Supplier not found by name.
+Supplier name from row: Timeshare Travels
+Score Comparing TimeshareTravels with Message Corp. : 0.6199304198780667
+Score Comparing TimeshareTravels with Message Corporation : 0.6038596398555418
+Score Comparing TimeshareTravels with Silicon Valley Payroll : 0.40509574683346666
+Score Comparing TimeshareTravels with Megasoftware International : 0.5892556509887896
+Score Comparing TimeshareTravels with Deployment Solutions LLC : 0.3380617018914066
+Score Comparing TimeshareTravels with Giovanni's Cardboard Distributions : 0.4568321925761286
+Score Comparing TimeshareTravels with Timeshare Travels, LLC : 0.8660254037844386
+Score Comparing TimeshareTravels with HRIS Incorporated : 0.3426241444320965
+
+Best Match for Timeshare Travels: Timeshare Travels, LLC (0.8660254037844386)
+Best match is ACCEPTED
+
+Row 10 : OK
+Row 11 : Supplier not found by name.
+Supplier name from row: Orange Inc.
+Score Comparing OrangeInc with Message Corp. : 0.36563621206356534
+Score Comparing OrangeInc with Message Corporation : 0.4723774929733302
+Score Comparing OrangeInc with Silicon Valley Payroll : 0.2926847035024818
+Score Comparing OrangeInc with Megasoftware International : 0.6617241025372945
+Score Comparing OrangeInc with Deployment Solutions LLC : 0.27914526311954124
+Score Comparing OrangeInc with Giovanni's Cardboard Distributions : 0.3772167680771589
+Score Comparing OrangeInc with Timeshare Travels, LLC : 0.3337119062359573
+Score Comparing OrangeInc with HRIS Incorporated : 0.5658251521157384
+
+Best Match for Orange Inc.: Megasoftware International (0.6617241025372945)
+Creating a new supplier: Orange Inc.
+
+Row 11 : ERROR
+"End Date" cannot be blank
+"End Date" cannot be blank
+Row 12 : Supplier not found by name.
+Supplier name from row: TimeshareTravels
+Score Comparing TimeshareTravels with Message Corp. : 0.6199304198780667
+Score Comparing TimeshareTravels with Message Corporation : 0.6038596398555418
+Score Comparing TimeshareTravels with Silicon Valley Payroll : 0.40509574683346666
+Score Comparing TimeshareTravels with Megasoftware International : 0.5892556509887896
+Score Comparing TimeshareTravels with Deployment Solutions LLC : 0.3380617018914066
+Score Comparing TimeshareTravels with Giovanni's Cardboard Distributions : 0.4568321925761286
+Score Comparing TimeshareTravels with Timeshare Travels, LLC : 0.8660254037844386
+Score Comparing TimeshareTravels with HRIS Incorporated : 0.3426241444320965
+Score Comparing TimeshareTravels with Orange Inc. : 0.35445877847928337
+
+Best Match for TimeshareTravels: Timeshare Travels, LLC (0.8660254037844386)
+Best match is ACCEPTED
+
+Row 12 : OK
+
+Row 13 : ERROR
+"Contract Value" cannot be blank
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+Row 14 : Supplier not found by name.
+Supplier name from row: Police Box LLC
+Score Comparing PoliceBoxLLC with Message Corp. : 0.30316953129541624
+Score Comparing PoliceBoxLLC with Message Corporation : 0.4351941398892446
+Score Comparing PoliceBoxLLC with Silicon Valley Payroll : 0.48536267169707553
+Score Comparing PoliceBoxLLC with Megasoftware International : 0.2904737509655563
+Score Comparing PoliceBoxLLC with Deployment Solutions LLC : 0.6172133998483676
+Score Comparing PoliceBoxLLC with Giovanni's Cardboard Distributions : 0.3127716210856122
+Score Comparing PoliceBoxLLC with Timeshare Travels, LLC : 0.3952847075210474
+Score Comparing PoliceBoxLLC with HRIS Incorporated : 0.3127716210856122
+Score Comparing PoliceBoxLLC with Orange Inc. : 0.1386750490563073
+
+Best Match for Police Box LLC: Deployment Solutions LLC (0.6172133998483676)
+Creating a new supplier: Police Box LLC
+
+Row 14 : ERROR
+"End Date" Translation missing: en.errors.greater_than

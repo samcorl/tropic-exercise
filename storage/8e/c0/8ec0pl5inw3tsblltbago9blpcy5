@@ -1,0 +1,163 @@
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 1 : OK
+Row 2 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing Message Corporation with Message Corp. : 0.8146182794269169
+
+Best Match for Message Corporation: Message Corp. (0.8146182794269169)
+Creating a new supplier: Message Corporation
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 2 : OK
+Row 3 : Supplier not found by name.
+Supplier name from row: Silicon Valley Payroll
+Score Comparing Silicon Valley Payroll with Message Corp. : 0.24504901470490173
+
+Best Match for Silicon Valley Payroll: Message Corp. (0.24504901470490173)
+Creating a new supplier: Silicon Valley Payroll
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 3 : OK
+Row 4 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing Message Corporation with Message Corp. : 0.8146182794269169
+
+Best Match for Message Corporation: Message Corp. (0.8146182794269169)
+Creating a new supplier: Message Corporation
+Setting owner from john.doe@example.com
+contract owner : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+contract owner with names : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+
+Row 4 : OK
+Row 5 : Supplier not found by name.
+Supplier name from row: Megasoftware International
+Score Comparing Megasoftware International with Message Corp. : 0.5683580801556054
+
+Best Match for Megasoftware International: Message Corp. (0.5683580801556054)
+Creating a new supplier: Megasoftware International
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 5 : ERROR
+"Contract Name" cannot be blank
+Row 6 : Supplier not found by name.
+Supplier name from row: Deployment Solutions LLC
+Score Comparing Deployment Solutions LLC with Message Corp. : 0.43278921145054855
+
+Best Match for Deployment Solutions LLC: Message Corp. (0.43278921145054855)
+Creating a new supplier: Deployment Solutions LLC
+Setting owner from john.doe@example.com
+contract owner : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+contract owner with names : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+
+Row 6 : OK
+Row 7 : Supplier not found by name.
+Supplier name from row: Giovanni's Cardboard Distributions
+Score Comparing Giovanni's Cardboard Distributions with Message Corp. : 0.416040773993875
+
+Best Match for Giovanni's Cardboard Distributions: Message Corp. (0.416040773993875)
+Creating a new supplier: Giovanni's Cardboard Distributions
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 7 : OK
+Row 8 : Supplier not found by name.
+Supplier name from row: Timeshare Travels, LLC
+Score Comparing Timeshare Travels, LLC with Message Corp. : 0.6149400462680908
+
+Best Match for Timeshare Travels, LLC: Message Corp. (0.6149400462680908)
+Creating a new supplier: Timeshare Travels, LLC
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 8 : OK
+Row 9 : Supplier not found by name.
+Supplier name from row: HRIS Incorporated
+Score Comparing HRIS Incorporated with Message Corp. : 0.4136701519960153
+
+Best Match for HRIS Incorporated: Message Corp. (0.4136701519960153)
+Creating a new supplier: HRIS Incorporated
+Setting owner from john.doe@example.com
+contract owner : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+contract owner with names : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+
+Row 9 : ERROR
+"Start Date" cannot be blank
+"End Date" cannot be blank
+"End Date" cannot be blank
+"Contract Value" cannot be blank
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+Row 10 : Supplier not found by name.
+Supplier name from row: Timeshare Travels
+Score Comparing Timeshare Travels with Message Corp. : 0.6199304198780667
+
+Best Match for Timeshare Travels: Message Corp. (0.6199304198780667)
+Creating a new supplier: Timeshare Travels
+Setting owner from john.doe@example.com
+contract owner : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+contract owner with names : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+
+Row 10 : OK
+Row 11 : Supplier not found by name.
+Supplier name from row: Orange Inc.
+Score Comparing Orange Inc. with Message Corp. : 0.36563621206356534
+
+Best Match for Orange Inc.: Message Corp. (0.36563621206356534)
+Creating a new supplier: Orange Inc.
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 11 : ERROR
+"End Date" cannot be blank
+"End Date" cannot be blank
+Row 12 : Supplier not found by name.
+Supplier name from row: TimeshareTravels
+Score Comparing TimeshareTravels with Message Corp. : 0.6199304198780667
+
+Best Match for TimeshareTravels: Message Corp. (0.6199304198780667)
+Creating a new supplier: TimeshareTravels
+Setting owner from john.doe@example.com
+contract owner : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+contract owner with names : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+
+Row 12 : OK
+Row 13 : Supplier not found by name.
+Supplier name from row: Orange Inc.
+Score Comparing Orange Inc. with Message Corp. : 0.36563621206356534
+
+Best Match for Orange Inc.: Message Corp. (0.36563621206356534)
+Creating a new supplier: Orange Inc.
+Setting owner from john.doe@example.com
+contract owner : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+contract owner with names : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+
+Row 13 : ERROR
+"Contract Value" cannot be blank
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+Row 14 : Supplier not found by name.
+Supplier name from row: Police Box LLC
+Score Comparing Police Box LLC with Message Corp. : 0.30316953129541624
+
+Best Match for Police Box LLC: Message Corp. (0.30316953129541624)
+Creating a new supplier: Police Box LLC
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 14 : ERROR
+"End Date" Translation missing: en.errors.greater_than

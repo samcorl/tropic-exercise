@@ -1,0 +1,7 @@
+Contract Owner,External Contract ID,Contract Name,Start Date,End Date,Contract Value,Supplier
+bob.smith@example.com,488c9387-9563-48ea-8b20-42f32c78cf8e,Company Messenger,01/01/2023,06/30/2023,"20,000.00",Message Corp.
+,77ee1b77-a10e-40f7-bf60-a90ec49975a7,Company Messenger,07/01/2023,12/31/2023,"30,000.00",Message Corporation
+bob.smith@example.com,,Payroll Software,01/01/2023,12/31/2023,"500,000.00",Silicon Valley Payroll
+john.doe@example.com,9e253491-7610-4e07-a51f-78b18d0452de,,01/01/2023,03/31/2023,"10,000.00",Message Corporation
+bob.smith@example.com,466f3c20-3b41-447f-aca0-a4e243288c01,,01/02/2023,04/01/2023,"10,000.00",
+john.doe@example.com,69a6924c-23d7-4b1b-8800-13661095cd06,Application Software,01/01/2022,03/31/2022,"10,000.00",Deployment Solutions LLC

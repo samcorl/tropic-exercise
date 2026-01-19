@@ -1,0 +1,403 @@
+
+Row 1 : Supplier not found by name.
+Supplier name from row: Message Corp.
+Creating a new supplier: Message Corp.
+
+Row 1 : OK
+
+Row 2 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 2 : ERROR
+"Contract Owner" cannot be blank
+
+Row 3 : Supplier not found by name.
+Supplier name from row: Silicon Valley Payroll
+Score Comparing SiliconValleyPayroll with MessageCorp : 0.2608745973749755
+
+Best Match for Silicon Valley Payroll: Message Corp. (0.2608745973749755)
+Best match is REJECTED because the score is too low.
+Creating a new supplier: Silicon Valley Payroll
+
+Row 3 : ERROR
+"External Contract ID" cannot be blank
+
+Row 4 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 4 : ERROR
+"Contract Name" cannot be blank
+
+Row 5 : ERROR
+"Contract Name" cannot be blank
+"Supplier" cannot be blank
+
+Row 6 : Supplier not found by name.
+Supplier name from row: Deployment Solutions LLC
+Score Comparing DeploymentSolutionsLLC with MessageCorp : 0.4607392991208651
+Score Comparing DeploymentSolutionsLLC with SiliconValleyPayroll : 0.5853661322385588
+
+Best Match for Deployment Solutions LLC: Silicon Valley Payroll (0.5853661322385588)
+Best match is REJECTED because the score is too low.
+Creating a new supplier: Deployment Solutions LLC
+
+Row 6 : OK
+
+Row 7 : OK
+
+Row 8 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 8 : ERROR
+"Contract Owner" cannot be blank
+
+Row 9 : ERROR
+"External Contract ID" cannot be blank
+
+Row 10 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 10 : ERROR
+"Contract Name" cannot be blank
+
+Row 11 : ERROR
+"Contract Name" cannot be blank
+"Supplier" cannot be blank
+
+Row 12 : OK
+
+Row 13 : OK
+
+Row 14 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 14 : ERROR
+"Contract Owner" cannot be blank
+
+Row 15 : ERROR
+"External Contract ID" cannot be blank
+
+Row 16 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 16 : ERROR
+"Contract Name" cannot be blank
+
+Row 17 : ERROR
+"Contract Name" cannot be blank
+"Supplier" cannot be blank
+
+Row 18 : OK
+
+Row 19 : OK
+
+Row 20 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 20 : ERROR
+"Contract Owner" cannot be blank
+
+Row 21 : ERROR
+"External Contract ID" cannot be blank
+
+Row 22 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 22 : ERROR
+"Contract Name" cannot be blank
+
+Row 23 : ERROR
+"Contract Name" cannot be blank
+"Supplier" cannot be blank
+
+Row 24 : OK
+
+Row 25 : OK
+
+Row 26 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 26 : ERROR
+"Contract Owner" cannot be blank
+
+Row 27 : ERROR
+"External Contract ID" cannot be blank
+
+Row 28 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 28 : ERROR
+"Contract Name" cannot be blank
+
+Row 29 : ERROR
+"Contract Name" cannot be blank
+"Supplier" cannot be blank
+
+Row 30 : OK
+
+Row 31 : OK
+
+Row 32 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 32 : ERROR
+"Contract Owner" cannot be blank
+
+Row 33 : ERROR
+"External Contract ID" cannot be blank
+
+Row 34 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 34 : ERROR
+"Contract Name" cannot be blank
+
+Row 35 : ERROR
+"Contract Name" cannot be blank
+"Supplier" cannot be blank
+
+Row 36 : OK
+
+Row 37 : OK
+
+Row 38 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 38 : ERROR
+"Contract Owner" cannot be blank
+
+Row 39 : ERROR
+"External Contract ID" cannot be blank
+
+Row 40 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 40 : ERROR
+"Contract Name" cannot be blank
+
+Row 41 : ERROR
+"Contract Name" cannot be blank
+"Supplier" cannot be blank
+
+Row 42 : OK
+
+Row 43 : OK
+
+Row 44 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 44 : ERROR
+"Contract Owner" cannot be blank
+
+Row 45 : ERROR
+"External Contract ID" cannot be blank
+
+Row 46 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 46 : ERROR
+"Contract Name" cannot be blank
+
+Row 47 : ERROR
+"Contract Name" cannot be blank
+"Supplier" cannot be blank
+
+Row 48 : OK
+
+Row 49 : OK
+
+Row 50 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 50 : ERROR
+"Contract Owner" cannot be blank
+
+Row 51 : ERROR
+"External Contract ID" cannot be blank
+
+Row 52 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 52 : ERROR
+"Contract Name" cannot be blank
+
+Row 53 : ERROR
+"Contract Name" cannot be blank
+"Supplier" cannot be blank
+
+Row 54 : OK
+
+Row 55 : OK
+
+Row 56 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 56 : ERROR
+"Contract Owner" cannot be blank
+
+Row 57 : ERROR
+"External Contract ID" cannot be blank
+
+Row 58 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 58 : ERROR
+"Contract Name" cannot be blank
+
+Row 59 : ERROR
+"Contract Name" cannot be blank
+"Supplier" cannot be blank
+
+Row 60 : OK
+
+Row 61 : OK
+
+Row 62 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 62 : ERROR
+"Contract Owner" cannot be blank
+
+Row 63 : ERROR
+"External Contract ID" cannot be blank
+
+Row 64 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 64 : ERROR
+"Contract Name" cannot be blank
+
+Row 65 : ERROR
+"Contract Name" cannot be blank
+"Supplier" cannot be blank
+
+Row 66 : OK

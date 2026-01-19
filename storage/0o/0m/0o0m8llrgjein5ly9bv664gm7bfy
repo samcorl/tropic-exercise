@@ -1,0 +1,147 @@
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 1 : OK
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 2 : OK
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 3 : OK
+Setting owner from john.doe@example.com
+contract owner : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+contract owner with names : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+
+Row 4 : OK
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 5 : ERROR
+"Contract Name" cannot be blank
+Setting owner from john.doe@example.com
+contract owner : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+contract owner with names : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+
+Row 6 : OK
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 7 : OK
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 8 : OK
+Setting owner from john.doe@example.com
+contract owner : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+contract owner with names : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+
+Row 9 : ERROR
+"Translation missing: en.activerecord.attributes.contract.start_date" cannot be blank
+"Translation missing: en.activerecord.attributes.contract.end_date" cannot be blank
+"Translation missing: en.activerecord.attributes.contract.end_date" cannot be blank
+"Translation missing: en.activerecord.attributes.contract.value_cents" cannot be blank
+"Translation missing: en.activerecord.attributes.contract.value_cents" Translation missing: en.errors.not_a_number
+"Translation missing: en.activerecord.attributes.contract.value_cents" Translation missing: en.errors.not_a_number
+"Translation missing: en.activerecord.attributes.contract.value" Translation missing: en.errors.not_a_number
+Row 10 : Supplier not found by name.
+Supplier name from row: Timeshare Travels
+Score Comparing Timeshare Travels with Message Corp. : 0.6199304198780667
+Score Comparing Timeshare Travels with Message Corporation : 0.6038596398555418
+Score Comparing Timeshare Travels with Silicon Valley Payroll : 0.40509574683346666
+Score Comparing Timeshare Travels with Megasoftware International : 0.5892556509887896
+Score Comparing Timeshare Travels with Deployment Solutions LLC : 0.3380617018914066
+Score Comparing Timeshare Travels with Giovanni's Cardboard Distributions : 0.4568321925761286
+Score Comparing Timeshare Travels with Timeshare Travels, LLC : 0.8660254037844386
+Score Comparing Timeshare Travels with HRIS Incorporated : 0.3426241444320965
+
+Best Match for Timeshare Travels: Timeshare Travels, LLC (0.8660254037844386)
+Best match is ACCEPTED
+Setting owner from john.doe@example.com
+contract owner : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+contract owner with names : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+
+Row 10 : OK
+Row 11 : Supplier not found by name.
+Supplier name from row: Orange Inc.
+Score Comparing Orange Inc. with Message Corp. : 0.36563621206356534
+Score Comparing Orange Inc. with Message Corporation : 0.4723774929733302
+Score Comparing Orange Inc. with Silicon Valley Payroll : 0.2926847035024818
+Score Comparing Orange Inc. with Megasoftware International : 0.6617241025372945
+Score Comparing Orange Inc. with Deployment Solutions LLC : 0.27914526311954124
+Score Comparing Orange Inc. with Giovanni's Cardboard Distributions : 0.3772167680771589
+Score Comparing Orange Inc. with Timeshare Travels, LLC : 0.3337119062359573
+Score Comparing Orange Inc. with HRIS Incorporated : 0.5658251521157384
+
+Best Match for Orange Inc.: Megasoftware International (0.6617241025372945)
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 11 : ERROR
+"Translation missing: en.activerecord.attributes.contract.end_date" cannot be blank
+"Translation missing: en.activerecord.attributes.contract.end_date" cannot be blank
+Row 12 : Supplier not found by name.
+Supplier name from row: TimeshareTravels
+Score Comparing TimeshareTravels with Message Corp. : 0.6199304198780667
+Score Comparing TimeshareTravels with Message Corporation : 0.6038596398555418
+Score Comparing TimeshareTravels with Silicon Valley Payroll : 0.40509574683346666
+Score Comparing TimeshareTravels with Megasoftware International : 0.5892556509887896
+Score Comparing TimeshareTravels with Deployment Solutions LLC : 0.3380617018914066
+Score Comparing TimeshareTravels with Giovanni's Cardboard Distributions : 0.4568321925761286
+Score Comparing TimeshareTravels with Timeshare Travels, LLC : 0.8660254037844386
+Score Comparing TimeshareTravels with HRIS Incorporated : 0.3426241444320965
+
+Best Match for TimeshareTravels: Timeshare Travels, LLC (0.8660254037844386)
+Best match is ACCEPTED
+Setting owner from john.doe@example.com
+contract owner : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+contract owner with names : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+
+Row 12 : OK
+Row 13 : Supplier not found by name.
+Supplier name from row: Orange Inc.
+Score Comparing Orange Inc. with Message Corp. : 0.36563621206356534
+Score Comparing Orange Inc. with Message Corporation : 0.4723774929733302
+Score Comparing Orange Inc. with Silicon Valley Payroll : 0.2926847035024818
+Score Comparing Orange Inc. with Megasoftware International : 0.6617241025372945
+Score Comparing Orange Inc. with Deployment Solutions LLC : 0.27914526311954124
+Score Comparing Orange Inc. with Giovanni's Cardboard Distributions : 0.3772167680771589
+Score Comparing Orange Inc. with Timeshare Travels, LLC : 0.3337119062359573
+Score Comparing Orange Inc. with HRIS Incorporated : 0.5658251521157384
+
+Best Match for Orange Inc.: Megasoftware International (0.6617241025372945)
+Setting owner from john.doe@example.com
+contract owner : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+contract owner with names : #<ContractOwner id: 2, first_name: "John", last_name: "Doe", email: "john.doe@example.com", created_at: "2023-08-10 04:09:14.598663000 +0000", updated_at: "2023-08-10 04:09:14.598663000 +0000">
+
+Row 13 : ERROR
+"Translation missing: en.activerecord.attributes.contract.value_cents" cannot be blank
+"Translation missing: en.activerecord.attributes.contract.value_cents" Translation missing: en.errors.not_a_number
+"Translation missing: en.activerecord.attributes.contract.value_cents" Translation missing: en.errors.not_a_number
+"Translation missing: en.activerecord.attributes.contract.value" Translation missing: en.errors.not_a_number
+Row 14 : Supplier not found by name.
+Supplier name from row: Police Box LLC
+Score Comparing Police Box LLC with Message Corp. : 0.30316953129541624
+Score Comparing Police Box LLC with Message Corporation : 0.4351941398892446
+Score Comparing Police Box LLC with Silicon Valley Payroll : 0.48536267169707553
+Score Comparing Police Box LLC with Megasoftware International : 0.2904737509655563
+Score Comparing Police Box LLC with Deployment Solutions LLC : 0.6172133998483676
+Score Comparing Police Box LLC with Giovanni's Cardboard Distributions : 0.3127716210856122
+Score Comparing Police Box LLC with Timeshare Travels, LLC : 0.3952847075210474
+Score Comparing Police Box LLC with HRIS Incorporated : 0.3127716210856122
+
+Best Match for Police Box LLC: Deployment Solutions LLC (0.6172133998483676)
+Setting owner from bob.smith@example.com
+contract owner : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+contract owner with names : #<ContractOwner id: 1, first_name: "Bob", last_name: "Smith", email: "bob.smith@example.com", created_at: "2023-08-10 04:09:14.491509000 +0000", updated_at: "2023-08-10 04:09:14.491509000 +0000">
+
+Row 14 : ERROR
+"Translation missing: en.activerecord.attributes.contract.end_date" Translation missing: en.errors.greater_than

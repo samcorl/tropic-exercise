@@ -1,0 +1,85 @@
+Row 1 : Supplier not found by name.
+Supplier name from row: Message Corp.
+Creating a new supplier: Message Corp.
+
+Row 1 : OK
+Row 2 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Creating a new supplier: Message Corporation
+
+Row 2 : OK
+Row 3 : Supplier not found by name.
+Supplier name from row: Silicon Valley Payroll
+Creating a new supplier: Silicon Valley Payroll
+
+Row 3 : OK
+Row 4 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Creating a new supplier: Message Corporation
+
+Row 4 : OK
+Row 5 : Supplier not found by name.
+Supplier name from row: Megasoftware International
+Creating a new supplier: Megasoftware International
+
+Row 5 : ERROR
+"Contract Name" cannot be blank
+Row 6 : Supplier not found by name.
+Supplier name from row: Deployment Solutions LLC
+Creating a new supplier: Deployment Solutions LLC
+
+Row 6 : OK
+Row 7 : Supplier not found by name.
+Supplier name from row: Giovanni's Cardboard Distributions
+Creating a new supplier: Giovanni's Cardboard Distributions
+
+Row 7 : OK
+Row 8 : Supplier not found by name.
+Supplier name from row: Timeshare Travels, LLC
+Creating a new supplier: Timeshare Travels, LLC
+
+Row 8 : OK
+Row 9 : Supplier not found by name.
+Supplier name from row: HRIS Incorporated
+Creating a new supplier: HRIS Incorporated
+
+Row 9 : ERROR
+"Start Date" cannot be blank
+"End Date" cannot be blank
+"End Date" cannot be blank
+"Contract Value" cannot be blank
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+Row 10 : Supplier not found by name.
+Supplier name from row: Timeshare Travels
+Creating a new supplier: Timeshare Travels
+
+Row 10 : OK
+Row 11 : Supplier not found by name.
+Supplier name from row: Orange Inc.
+Creating a new supplier: Orange Inc.
+
+Row 11 : ERROR
+"End Date" cannot be blank
+"End Date" cannot be blank
+Row 12 : Supplier not found by name.
+Supplier name from row: TimeshareTravels
+Creating a new supplier: TimeshareTravels
+
+Row 12 : OK
+Row 13 : Supplier not found by name.
+Supplier name from row: Orange Inc.
+Creating a new supplier: Orange Inc.
+
+Row 13 : ERROR
+"Contract Value" cannot be blank
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+Row 14 : Supplier not found by name.
+Supplier name from row: Police Box LLC
+Creating a new supplier: Police Box LLC
+
+Row 14 : ERROR
+"End Date" Translation missing: en.errors.greater_than

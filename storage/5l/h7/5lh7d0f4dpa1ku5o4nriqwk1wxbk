@@ -1,0 +1,103 @@
+
+Row 1 : OK
+
+Row 2 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with MegasoftwareInternational : 0.8055027906610329
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+Score Comparing MessageCorporation with GiovannisCardboardDistributions : 0.7201931413999582
+Score Comparing MessageCorporation with TimeshareTravelsLLC : 0.5976143046671968
+Score Comparing MessageCorporation with HRISIncorporated : 0.6407116072277477
+Score Comparing MessageCorporation with OrangeInc : 0.47970161180012344
+Score Comparing MessageCorporation with PoliceBoxLLC : 0.44194173824159216
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 2 : OK
+
+Row 3 : OK
+
+Row 4 : Supplier not found by name.
+Supplier name from row: Message Corporation
+Score Comparing MessageCorporation with MessageCorp : 0.8672273827165129
+Score Comparing MessageCorporation with SiliconValleyPayroll : 0.4337638086178544
+Score Comparing MessageCorporation with MegasoftwareInternational : 0.8055027906610329
+Score Comparing MessageCorporation with DeploymentSolutionsLLC : 0.6308932681440448
+Score Comparing MessageCorporation with GiovannisCardboardDistributions : 0.7201931413999582
+Score Comparing MessageCorporation with TimeshareTravelsLLC : 0.5976143046671968
+Score Comparing MessageCorporation with HRISIncorporated : 0.6407116072277477
+Score Comparing MessageCorporation with OrangeInc : 0.47970161180012344
+Score Comparing MessageCorporation with PoliceBoxLLC : 0.44194173824159216
+
+Best Match for Message Corporation: Message Corp. (0.8672273827165129)
+Best match is ACCEPTED
+
+Row 4 : OK
+
+Row 5 : ERROR
+"Contract Name" cannot be blank
+
+Row 6 : OK
+
+Row 7 : OK
+
+Row 8 : OK
+
+Row 9 : ERROR
+"Start Date" cannot be blank
+"End Date" cannot be blank
+"End Date" cannot be blank
+"Contract Value" cannot be blank
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+
+Row 10 : Supplier not found by name.
+Supplier name from row: Timeshare Travels
+Score Comparing TimeshareTravels with MessageCorp : 0.6599663291074443
+Score Comparing TimeshareTravels with SiliconValleyPayroll : 0.4216370213557839
+Score Comparing TimeshareTravels with MegasoftwareInternational : 0.5942283606769104
+Score Comparing TimeshareTravels with DeploymentSolutionsLLC : 0.35540932665545544
+Score Comparing TimeshareTravels with GiovannisCardboardDistributions : 0.46977617561176277
+Score Comparing TimeshareTravels with TimeshareTravelsLLC : 0.9258200997725513
+Score Comparing TimeshareTravels with HRISIncorporated : 0.35032452487268534
+Score Comparing TimeshareTravels with OrangeInc : 0.3853373177942262
+Score Comparing TimeshareTravels with PoliceBoxLLC : 0.22821773229381923
+
+Best Match for Timeshare Travels: Timeshare Travels, LLC (0.9258200997725513)
+Best match is ACCEPTED
+
+Row 10 : OK
+
+Row 11 : ERROR
+"End Date" cannot be blank
+"End Date" cannot be blank
+
+Row 12 : Supplier not found by name.
+Supplier name from row: TimeshareTravels
+Score Comparing TimeshareTravels with MessageCorp : 0.6599663291074443
+Score Comparing TimeshareTravels with SiliconValleyPayroll : 0.4216370213557839
+Score Comparing TimeshareTravels with MegasoftwareInternational : 0.5942283606769104
+Score Comparing TimeshareTravels with DeploymentSolutionsLLC : 0.35540932665545544
+Score Comparing TimeshareTravels with GiovannisCardboardDistributions : 0.46977617561176277
+Score Comparing TimeshareTravels with TimeshareTravelsLLC : 0.9258200997725513
+Score Comparing TimeshareTravels with HRISIncorporated : 0.35032452487268534
+Score Comparing TimeshareTravels with OrangeInc : 0.3853373177942262
+Score Comparing TimeshareTravels with PoliceBoxLLC : 0.22821773229381923
+
+Best Match for TimeshareTravels: Timeshare Travels, LLC (0.9258200997725513)
+Best match is ACCEPTED
+
+Row 12 : OK
+
+Row 13 : ERROR
+"Contract Value" cannot be blank
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+"Contract Value" Translation missing: en.errors.not_a_number
+
+Row 14 : ERROR
+"End Date" Translation missing: en.errors.greater_than
